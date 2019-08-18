@@ -8,11 +8,11 @@
 
 $$
 \begin{array}{ll}
-1. & abaab \\
-2. & baab \\
-3. & aab \\
-4. & ab \\
-5. & b
+0. & abaab \\
+1. & baab \\
+2. & aab \\
+3. & ab \\
+4. & b
 \end{array}
 $$
 
