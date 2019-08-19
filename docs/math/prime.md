@@ -38,6 +38,12 @@ bool isPrime(a) {
 }
 ```
 
+### Wlison定理
+对于一个整数p，当$(p-1)!≡1(mod p)$成立时，p为质数。
+证明可以感性理解一下。
+对于1~p-1，在其子集2~p-2中，如果p为质数，则2~p-2总能找到一种方法两两配对后mod p=1，而1*p-1 mod p后则为-1，证毕。
+这个定理的实际操作意义不算太大。
+
 ### Miller-Rabin 素性测试
 
 Miller-Rabin 素性测试（Miller–Rabin primality test）是进阶的素数判定方法。
